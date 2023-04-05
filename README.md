@@ -1,2 +1,2 @@
 # DataScience
-Aprendiendo Python para ciencia de datos, utilizando Jupyter y Anaconda.
+Aprendiendo Python para ciencia de datos, utilizando Jupyter Notebooks y Anaconda.
